@@ -1,3 +1,3 @@
-# Symmetrische Verschlüsselung in Ruby, Teil 1: Stream Cipher
+# Symmetrische Verschlüsselung in Ruby, Teil 1 & 2: Stream Cipher
 
-Hier finden Sie die Code-Beispiele zum Artikel.
+Hier finden Sie die Code-Beispiele zu den Artikeln.
